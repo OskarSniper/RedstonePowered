@@ -1,0 +1,7 @@
+name: RedstonePowered
+version: 1.0
+author: 35erBizeps
+main: at.oskarsniper.redstonepowered.main.main
+commands:
+ rp:
+  description: RedstonePowered plugin command!
